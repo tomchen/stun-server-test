@@ -10,5 +10,5 @@ Example: `stun.l.google.com:19302`
 
 My other WebRTC online tools:
 
-- [Symmetric NAT Test](https://tomchen.github.io/symmetric-nat-test/)
-- [WebRTC P2P Chat Test](https://tomchen.github.io/webrtc-p2p-chat/)
+- [Symmetric NAT Test](https://tomchen.github.io/symmetric-nat-test/) ([GitHub repo](https://github.com/tomchen/symmetric-nat-test))
+- [WebRTC P2P Chat Test](https://tomchen.github.io/webrtc-p2p-chat/) ([GitHub repo](https://github.com/tomchen/webrtc-p2p-chat))
