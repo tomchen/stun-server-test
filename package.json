@@ -1,6 +1,6 @@
 {
   "name": "stun-server-test",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Test STUN servers for WebRTC connectivity",
   "keywords": [
     "test",
