@@ -1,0 +1,50 @@
+:root {
+  color-scheme: light dark;
+}
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+h1 {
+  font-size: 1.6rem;
+}
+textarea {
+  width: 88%;
+  height: 10rem;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  resize: vertical;
+  padding: 10px;
+  box-sizing: border-box;
+}
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+table {
+  width: 88%;
+  margin: 14px auto;
+  border-collapse: collapse;
+  box-sizing: border-box;
+}
+th,
+td {
+  border-width: 1px;
+  border-style: solid;
+  padding: 6px;
+  text-align: center;
+}
+th {
+  background-color: rgba(128, 128, 128, 0.2);
+}
+.success {
+  background-color: rgba(0, 217, 0, 0.5);
+}
+.fail {
+  background-color: rgba(255, 64, 31, 0.5);
+}
+.invalid {
+  background-color: rgba(128, 128, 128, 0.5);
+}
